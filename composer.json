@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "freeprintable/freebabyshower",
+    "description": "free baby shower games Framework.",
+    "keywords": ["framework", "baby shower"],
     "license": "MIT",
     "type": "project",
     "require": {
